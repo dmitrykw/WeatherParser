@@ -1,0 +1,11 @@
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\bin\Debug\WeatherParser.exe.config
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\bin\Debug\WeatherParser.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\bin\Debug\WeatherParser.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\bin\Debug\HtmlAgilityPack.dll
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\bin\Debug\HtmlAgilityPack.xml
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\obj\Debug\WeatherParser.csprojAssemblyReference.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\obj\Debug\WeatherParser.csproj.CoreCompileInputs.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\obj\Debug\WeatherParser.csproj.CopyComplete
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\obj\Debug\WeatherParser.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\WeatherParser\WeatherParser\obj\Debug\WeatherParser.pdb
