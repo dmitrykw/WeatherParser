@@ -19,8 +19,8 @@ namespace WeatherParser
 
             if (args.Length < 1)
             {
-                Console.WriteLine("Используйте команду вида: WheatherParser.exe <город>");
-                Console.WriteLine("Например: WheatherParser.exe Питер Москва Самара");
+                Console.WriteLine("Используйте команду вида: WeatherParser.exe <город>");
+                Console.WriteLine("Например: WeatherParser.exe Питер Москва Самара");
                 return;
             }
 
