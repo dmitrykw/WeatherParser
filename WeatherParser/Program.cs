@@ -19,7 +19,7 @@ namespace WeatherParser
 
             if (args.Length < 1)
             {
-                Console.WriteLine("Используйте команду вида: WeatherWebAPI.exe <город>");
+                Console.WriteLine("Используйте команду вида: WheatherParser.exe <город>");
                 Console.WriteLine("Например: WheatherParser.exe Питер Москва Самара");
                 return;
             }
